@@ -1,4 +1,3 @@
-"# TinkLabs" 
 ##描述
 该项目使用了MVVM架构和Kotlin编写，功能模块位于feature包下
 
