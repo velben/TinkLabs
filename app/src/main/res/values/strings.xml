@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Interview</string>
+    <string-array name="titles">
+        <item>CITY GUIDE</item>
+        <item>SHOP</item>
+        <item>EAT</item>
+    </string-array>
+
+    <string name="failure_network_connection">无网络连接</string>
+    <string name="failure_server_error">服务器错误</string>
+</resources>
